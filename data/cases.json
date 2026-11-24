@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {
+      "id": "001",
+      "title": {
+        "en": "The Last Message",
+        "fa": "آخرین پیام"
+      },
+      "status": "available",
+      "chapters": [
+        "Recovered Phone",
+        "The Party",
+        "The Missing Hour"
+      ],
+      "clues": [
+        "phone",
+        "chat",
+        "ticket",
+        "photo",
+        "note"
+      ],
+      "suspects": [
+        "Lily Vale",
+        "Betty Park",
+        "Noah Reed",
+        "Mara Quinn"
+      ]
+    },
+    {
+      "id": "002",
+      "title": {
+        "en": "The Glass Room",
+        "fa": "اتاق شیشه‌ای"
+      },
+      "status": "available",
+      "chapters": [
+        "The Sealed Archive",
+        "Three Alibis",
+        "The Broken Clock"
+      ],
+      "clues": [
+        "access_log",
+        "clock_photo",
+        "inventory_sheet",
+        "voice_note"
+      ],
+      "suspects": [
+        "Dr. Imani",
+        "Victor Hale",
+        "June Mercer"
+      ]
+    },
+    {
+      "id": "003",
+      "title": {
+        "en": "A Borrowed Hour",
+        "fa": "ساعت قرضی"
+      },
+      "status": "available",
+      "chapters": [
+        "The Midnight Letter",
+        "The Wrong Date",
+        "The Final Draft"
+      ],
+      "clues": [
+        "envelope",
+        "draft",
+        "postmark",
+        "calendar"
+      ],
+      "suspects": [
+        "Elias Ward",
+        "Nora Finch",
+        "Caleb Stone"
+      ]
+    }
+  ]
+}
