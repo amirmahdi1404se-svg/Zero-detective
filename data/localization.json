@@ -1,0 +1,16 @@
+{
+  "en": {
+    "app_name": "CASE ZERO",
+    "archive": "CASE ARCHIVE",
+    "evidence": "EVIDENCE",
+    "people": "PEOPLE",
+    "report": "REPORT"
+  },
+  "fa": {
+    "app_name": "پرونده صفر",
+    "archive": "بایگانی پرونده‌ها",
+    "evidence": "مدارک",
+    "people": "افراد",
+    "report": "گزارش"
+  }
+}
